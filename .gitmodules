@@ -2,5 +2,5 @@
 	path = assignment-autotest
 	url = https://github.com/cu-ecen-5013/assignment-autotest
 [submodule "buildroot"]
-    path = buildroot
-    url  = https://github.com/buildroot/buildroot.git
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
